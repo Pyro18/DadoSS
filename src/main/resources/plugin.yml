@@ -1,0 +1,15 @@
+name: DadoSS
+version: '${project.version}'
+main: me.dadoss.Main
+api-version: 1.18
+prefix: Plugin Starting
+authors: [ Dado ]
+description: ControllHack plugin
+commands:
+  dadoss:
+    description: DadoSS comando principale
+    aliases: ddss
+  ss:
+    description: Controllo hacker
+  unss:
+    description: Fine controllo
